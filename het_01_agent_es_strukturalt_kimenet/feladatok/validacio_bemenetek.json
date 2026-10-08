@@ -1,0 +1,12 @@
+[
+  {"id": "V01", "adat": {"category": "delivery", "summary": "A 123-as rendelés nem érkezett meg.", "order_id": "123", "needs_clarification": false}},
+  {"id": "V02", "adat": {"category": "billing", "summary": "A 987-es rendelést kétszer terhelték.", "order_id": "987", "needs_clarification": false}},
+  {"id": "V03", "adat": {"category": "other", "summary": "Az ügyfél köszönetet mond.", "order_id": null, "needs_clarification": false}},
+  {"id": "V04", "adat": {"category": "delivery", "summary": "Az ügyfél a csomagját keresi.", "needs_clarification": true}},
+  {"id": "V05", "adat": {"category": "billing", "summary": "A B-42 rendelésnél pontosítani kell a panaszt.", "order_id": "B-42", "needs_clarification": true}},
+  {"id": "V06", "adat": {"category": "refund", "summary": "Az ügyfél visszatérítést kér.", "needs_clarification": true}},
+  {"id": "V07", "adat": {"category": "delivery", "order_id": "123", "needs_clarification": false}},
+  {"id": "V08", "adat": {"category": "other", "summary": "ok", "needs_clarification": false}},
+  {"id": "V09", "adat": {"category": "delivery", "summary": "Az ügyfél szállításról érdeklődik.", "needs_clarification": "talán"}},
+  {"id": "V10", "adat": {"category": "delivery", "summary": "A 123-as rendelés késik.", "order_id": 123, "needs_clarification": false}}
+]

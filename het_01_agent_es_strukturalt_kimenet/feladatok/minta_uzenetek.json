@@ -1,0 +1,12 @@
+[
+  {"id": "U01", "uzenet": "Hol van a 123-as rendelésem? Tegnapra ígértétek a kézbesítést.", "jelleg": "egyértelmű"},
+  {"id": "U02", "uzenet": "A 987-es rendelés összegét kétszer vontátok le a kártyámról.", "jelleg": "egyértelmű"},
+  {"id": "U03", "uzenet": "Köszönöm a gyors segítséget!", "jelleg": "egyértelmű"},
+  {"id": "U04", "uzenet": "Még mindig nem érkezett meg a csomagom.", "jelleg": "hiányos"},
+  {"id": "U05", "uzenet": "Nem jó az összeg a számlámon.", "jelleg": "hiányos"},
+  {"id": "U06", "uzenet": "Nem stimmel valami a rendeléssel.", "jelleg": "többértelmű"},
+  {"id": "U07", "uzenet": "Az 555-ös rendelés csomagja késik, és a számlán is rossz az összeg. Mindkettőben kérek segítséget.", "jelleg": "vegyes"},
+  {"id": "U08", "uzenet": "A 00123 azonosítójú rendelésemet másik címre kézbesítették.", "jelleg": "egyértelmű"},
+  {"id": "U09", "uzenet": "A SZ-2026-42 számú számlán hibás az összeg.", "jelleg": "számlaszám, rendelésazonosító nélkül"},
+  {"id": "U10", "uzenet": "Mennyi garanciát adtok a fejhallgatókra?", "jelleg": "általános kérdés"}
+]

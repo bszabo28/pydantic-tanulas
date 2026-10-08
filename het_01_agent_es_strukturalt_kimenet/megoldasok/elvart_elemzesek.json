@@ -1,0 +1,12 @@
+{
+  "U01": {"output": {"category": "delivery", "summary": "A 123-as rendelés tegnapra ígért kézbesítéséről érdeklődik.", "order_id": "123", "needs_clarification": false}, "indoklas": "Egyértelmű szállítási ügy, ismert azonosítóval."},
+  "U02": {"output": {"category": "billing", "summary": "A 987-es rendelés összegét kétszer terhelték a kártyára.", "order_id": "987", "needs_clarification": false}, "indoklas": "Egyértelmű terhelési panasz, ismert rendelésazonosítóval."},
+  "U03": {"output": {"category": "other", "summary": "Az ügyfél megköszöni a gyors segítséget.", "order_id": null, "needs_clarification": false}, "indoklas": "Köszönet; nincs tisztázandó konkrét ügy."},
+  "U04": {"output": {"category": "delivery", "summary": "Az ügyfél csomagja még nem érkezett meg.", "order_id": null, "needs_clarification": true}, "indoklas": "Konkrét kézbesítési panasz, hiányzó rendelésazonosítóval."},
+  "U05": {"output": {"category": "billing", "summary": "Az ügyfél hibás számlaösszeget jelez.", "order_id": null, "needs_clarification": true}, "indoklas": "Számlázási panasz, rendelésazonosító nélkül."},
+  "U06": {"output": {"category": "other", "summary": "Az ügyfél meg nem nevezett rendelési problémát jelez.", "order_id": null, "needs_clarification": true}, "indoklas": "A probléma és a rendelésazonosító is tisztázandó."},
+  "U07": {"output": {"category": "other", "summary": "Az 555-ös rendelésnél szállítási késést és hibás számlaösszeget is jelez.", "order_id": "555", "needs_clarification": true}, "indoklas": "Két egyformán hangsúlyos probléma; a heti szabály szerint vegyes ügy."},
+  "U08": {"output": {"category": "delivery", "summary": "A 00123 azonosítójú rendelést másik címre kézbesítették.", "order_id": "00123", "needs_clarification": false}, "indoklas": "Egyértelmű szállítási panasz; a kezdő nullákat megőrizzük."},
+  "U09": {"output": {"category": "billing", "summary": "A SZ-2026-42 számú számlán hibás összeget jelez.", "order_id": null, "needs_clarification": true}, "indoklas": "Számlaszám szerepel, rendelésazonosító nem."},
+  "U10": {"output": {"category": "other", "summary": "A fejhallgatók garanciájának időtartamáról érdeklődik.", "order_id": null, "needs_clarification": false}, "indoklas": "Érthető általános kérdés; az elemzéshez nem kell rendelésazonosító."}
+}
